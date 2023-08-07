@@ -1,0 +1,12 @@
+{
+  "name": "aptos-gas-payer-example",
+  "version": "0.1.0",
+  "description": "Typescript Example to use a separate gas payer model (AIP-39) for implementing sponsored transactions on the Aptos blockchain.",
+  "main": "index.js",
+  "repository": "https://github.com/0xAnto/aptos-gas-payer-example.git",
+  "author": "0xAnto <antonyranjith17@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aptos": "^1.17.0"
+  }
+}
